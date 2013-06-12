@@ -11,8 +11,8 @@ Credits :
 - Guiho Ronan
 - Ozouf Harold
 - Platel Kevin
-- Phalipou Zoe
-- Ledrogo Romain
+- Phalippou Zoe
+- Le Drogo Romain
 
 Screenshots :
 

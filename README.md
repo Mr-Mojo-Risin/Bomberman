@@ -18,4 +18,4 @@ Screenshots :
 
 ![ScreenShot](http://image.noelshack.com/fichiers/2013/24/1371036270-game.png)
 
-Some images are on Copyright © All rights reserved to their author.
+Some images are on Copyright © All rights reserved to their author (Nitendo, Sony, ...)

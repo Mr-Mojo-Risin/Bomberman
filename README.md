@@ -20,4 +20,6 @@ Screenshots :
 
 ![ScreenShot](http://image.noelshack.com/fichiers/2013/24/1371036270-game.png)
 
+![ScreenShot](http://image.noelshack.com/fichiers/2013/24/1371037327-explosion.png)
+
 Some images are on Copyright © All rights reserved to their author (Nintendo, Sony, ...)

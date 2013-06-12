@@ -1,6 +1,8 @@
 Bomberman
 =========
 
+C++ Projet of second year at Epitech
+
 Credits :
 
 - Le Provost Alexis

@@ -3,6 +3,7 @@ Bomber All-Stars Online
 =========
 
 C++ Projet of second year at Epitech
+(Student Project)
 
 Credits :
 
